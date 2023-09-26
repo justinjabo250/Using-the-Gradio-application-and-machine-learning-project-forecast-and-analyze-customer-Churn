@@ -1,6 +1,3 @@
-https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn
-
-# Using the Streamlit application and machine learning project, forecast and analyze customer Churn. 
 
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/justinjabo250)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
@@ -8,6 +5,8 @@ https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machi
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250)
 [![My App](https://img.shields.io/badge/My-Website-darkgreen)](https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn)
 
+
+# Using the Streamlit application and machine learning project, forecast and analyze customer Churn. 
 
 <p align="center">
   <img src="images/welcome.jpg" alt="ExpressorLogo" width="800">
