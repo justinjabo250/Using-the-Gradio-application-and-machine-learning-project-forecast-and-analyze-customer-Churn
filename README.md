@@ -1,12 +1,23 @@
-#  Expressor Customer Churn Prediction, ML Approach
+https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn
+
+# Using the Streamlit application and machine learning project, forecast and analyze customer Churn. 
+
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/justinjabo250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250)
+[![My App](https://img.shields.io/badge/My-Website-darkgreen)](https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn)
+
+
 <p align="center">
   <img src="images/welcome.jpg" alt="ExpressorLogo" width="800">
 </p>
 
 ## Project Overview
-In this project, we seek to determine the possibility that a client would leave the business, the primary churn indicators, as well as the retention tactics that may be used to avoid this issue. One of the main issues facing the telecom sector is churn. According to studies, the top 4 wireless providers in the US see an average monthly churn rate of 1.9% to 2%.
 
-One of any company's largest expenses is customer churn. The percentage of consumers who ceased using your company's product or service within a predetermined duration is known as customer churn, also known as customer attrition or customer turnover. For instance, if you started the year with 500 clients and completed it with 480, then 4% of those 500 customers went. It would greatly aid the company in strategizing their retention campaigns if we could determine why a client leaves and when they leave with some degree of accuracy.
+In this project, our goal is to identify the likelihood that a customer will quit the company, the key churn indicators, and potential retention strategies. Churn is one of the major problems affecting the telecom industry. Studies show that the top 4 wireless service providers in the US experience a 1.9% to 2% monthly average churn rate.
+
+Customer turnover is one of a business's major costs. Customer churn, sometimes referred to as customer attrition or customer turnover, is the proportion of customers who stopped using your company's product or service within a defined time frame. If you began the year with 500 clients and ended it with 480, for instance, then 4% of those 500 clients left. If we could reasonably predict when a client quits and why they depart, it would be very helpful to the business in planning its retention campaigns.
 
 
 <p align="center">
@@ -14,8 +25,7 @@ One of any company's largest expenses is customer churn. The percentage of consu
 </p>
 
 
-This solution will help this telecom company to better serve their customers by understanding which customers are at risk of leaving.
-
+This solution would assist this telecom company in providing better customer service by identifying those clients who may be considering leaving.
 
 ## The presentation follows the following outline
 
@@ -40,7 +50,7 @@ This solution will help this telecom company to better serve their customers by 
 ## Summary
 | Code | Name                                                | Summary of the work                                                                                          |                                                                                              Streamlit App    |                                                                                                |
 |------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT](https://www.canva.com/design/DAFsXnEpF0Q/SInfoc-gtCJ5Wxc-QYaudg/edit?utm_content=DAFsXnEpF0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |  [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App)      |
+| Capstone  | Expressor Customer Churn Prediction, ML Approach     | [Summary_PPT]() |  [Streamlit App](https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn)      |
 
 
 
@@ -53,7 +63,7 @@ To set up the project environment, follow these steps:
 git clone my_github 
 
 ```bash 
-https://github.com/justinjabo250/Customer-churn-prediction-and-analysis-using-the-Gradio-application-and-machine-learning-project.
+https://github.com/justinjabo250/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn
 ```
 
 2. Install the required dependencies:
@@ -140,9 +150,10 @@ These hypotheses, along with the results of the EDA, contribute to a deeper unde
 
 ## Modeling
 
-During the modeling phase, the evaluation of models took into consideration the imbalanced nature of the data. The best performance evaluation estimator would be the AUC score, which provide a balanced assessment for imbalanced datasets.
+The unbalanced nature of the data was considered when evaluating models throughout the modeling phase. The AUC score would be the ideal performance evaluation estimator since it offers a fair evaluation for unbalanced datasets.
 
-We trained the underlisted six models and evaluated their performance based on Area Under the Curve (AUC)
+
+Area Under the Curve (AUC) was used to assess the performance of the six models that weren't selected.
 
 - **Logistic Regression** 
 - **Decision Tree** 
@@ -154,11 +165,13 @@ We trained the underlisted six models and evaluated their performance based on A
 These models were evaluated based on their AUC and logloss scores, providing insights into their performance on the imbalanced dataset. 
 
 
-Given the imbalanced nature of our dataset, we assessed the models' performance using the AUC metric.
+We used the AUC metric to evaluate the models' performance because our dataset was unbalanced.
 
-- Logistic Regression model emerged as th top-performing model, achieving the highest AUC scores of 80%.
-- ComplementNB consistently demonstrated high performance across different conditions.
-- GaussianNB had a relatively lower AUC score and higher log loss compared to other models.
+- AUC values for the top-performing model, the logistic regression model, reached 80%.
+
+- ComplementNB consistently displayed strong performance in various circumstances.
+
+- When compared to other models, GaussianNB had a higher log loss and a considerably lower AUC score.
 
 
 ### Streamlit deployment 
@@ -175,7 +188,7 @@ streamlit run streamlitApp.py
 
 ### App Execution on Huggingface
 
-Here's a step-by-step process on how to use the [Streamlit App](https://huggingface.co/spaces/HOLYBOY/Customer_Churn_App) on Huggingface:
+Here's a step-by-step process on how to use the [Streamlit App](https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn) on Huggingface:
 
 
 
