@@ -4,6 +4,8 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250)
 [![My App](https://img.shields.io/badge/My-Website-darkgreen)](https://huggingface.co/spaces/Justin-J/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn)
+[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
+[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-purple)](https://github.com/justinjabo250)
 
 
 # Using the Streamlit application and machine learning project, forecast and analyze customer Churn. 
