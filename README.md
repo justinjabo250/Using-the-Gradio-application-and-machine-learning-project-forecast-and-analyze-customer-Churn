@@ -11,22 +11,26 @@
 # Using the Streamlit application and machine learning project, forecast and analyze customer Churn. 
 
 <p align="center">
-  <img src="images/welcome.jpg" alt="ExpressorLogo" width="800">
+  <img src="https://user-images.githubusercontent.com/115732734/280482039-f7ee0125-878e-4c5d-abb4-62970b7f3faf.png" alt="ExpressorLogo" width="300"> <img src="https://user-images.githubusercontent.com/115732734/280482038-de161f14-eb9f-4806-8ddf-7292be1db4c2.jpg" alt="ExpressorLogo" width="400">
 </p>
 
 ## Project Overview
 
-In this project, our goal is to identify the likelihood that a customer will quit the company, the key churn indicators, and potential retention strategies. Churn is one of the major problems affecting the telecom industry. Studies show that the top 4 wireless service providers in the US experience a 1.9% to 2% monthly average churn rate.
+Our project's objective is to determine the probability that a client would leave the business, the primary churn indicators, and viable retention tactics. One of the main issues facing the telecom sector is churn. Studies reveal that the average monthly churn rate for the top 4 US wireless service providers is between 1.9% and 2%.
 
-Customer turnover is one of a business's major costs. Customer churn, sometimes referred to as customer attrition or customer turnover, is the proportion of customers who stopped using your company's product or service within a defined time frame. If you began the year with 500 clients and ended it with 480, for instance, then 4% of those 500 clients left. If we could reasonably predict when a client quits and why they depart, it would be very helpful to the business in planning its retention campaigns.
+One of the biggest expenses for a corporation is customer turnover. Customer churn, sometimes called customer attrition or customer turnover, is the percentage of customers that ceased utilizing the product or service offered by your business within a predetermined time period. For example, if you had 500 clients at the start of the year and finished with 480, that means 4% of the 500 clients departed. The business would benefit greatly from being able to plan its retention campaigns if we could anticipate with reasonable accuracy when and why a client would go.
 
 
 <p align="center">
-  <img src="images/logo.jpg" alt="ExpressorLogo" width="800">
+   <img src="https://user-images.githubusercontent.com/115732734/280482047-f5d95bd9-f963-4f4d-9fe0-7c30f2ef661e.jpg" alt="ExpressorLogo" width="300"> <img src="https://user-images.githubusercontent.com/115732734/280482046-c33608e3-ab80-4405-96d3-b0f4dd1fa955.jpg" alt="ExpressorLogo" width="400"> 
 </p>
 
 
 This solution would assist this telecom company in providing better customer service by identifying those clients who may be considering leaving.
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/115732734/280482051-bdbe3a44-1665-455b-968d-d8e5fd3eb3ee.jpg" alt="ExpressorLogo" width="400"> <img src="https://user-images.githubusercontent.com/115732734/280482621-f8facf2c-1d49-49db-8c16-da3a554ef6fd.jpg" alt="ExpressorLogo" width="300"> 
+</p>
 
 ## The presentation follows the following outline
 
