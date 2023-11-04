@@ -168,10 +168,10 @@ The six models that were not chosen were evaluated for performance using Area Un
 - **Support Vector Machine (SVM)**
 
 
-AUC and logloss scores were used to assess these models, giving information on how well they performed on the unbalanced dataset. 
+**AUC and logloss scores were used to assess these models, giving information on how well they performed on the unbalanced dataset.**
 
 
-Our dataset was imbalanced, thus we utilized the AUC statistic (metric) to assess the models' performance.
+**Our dataset was imbalanced, thus we utilized the AUC statistic (metric) to assess the models' performance.**
 
 
 - The logistic regression model, which performed the best, had an AUC of 80%.
