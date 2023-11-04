@@ -155,10 +155,10 @@ These hypotheses, along with the results of the EDA, contribute to a deeper unde
 
 ## Modeling
 
-The unbalanced nature of the data was considered when evaluating models throughout the modeling phase. The AUC score would be the ideal performance evaluation estimator since it offers a fair evaluation for unbalanced datasets.
+Throughout the modeling process, the inconsistent pattern of the data was taken into account while assessing the models. Since the AUC score provides a fair assessment for unbalanced datasets, it would be the perfect estimator for performance evaluations.
 
 
-Area Under the Curve (AUC) was used to assess the performance of the six models that weren't selected.
+The six models that were not chosen were evaluated for performance using Area Under the Curve (AUC).
 
 - **Logistic Regression** 
 - **Decision Tree** 
@@ -167,16 +167,19 @@ Area Under the Curve (AUC) was used to assess the performance of the six models 
 - **ComplementNB**
 - **Support Vector Machine (SVM)**
 
-These models were evaluated based on their AUC and logloss scores, providing insights into their performance on the imbalanced dataset. 
+
+AUC and logloss scores were used to assess these models, giving information on how well they performed on the unbalanced dataset. 
 
 
-We used the AUC metric to evaluate the models' performance because our dataset was unbalanced.
+Our dataset was imbalanced, thus we utilized the AUC statistic (metric) to assess the models' performance.
 
-- AUC values for the top-performing model, the logistic regression model, reached 80%.
 
-- ComplementNB consistently displayed strong performance in various circumstances.
+- The logistic regression model, which performed the best, had an AUC of 80%.
 
-- When compared to other models, GaussianNB had a higher log loss and a considerably lower AUC score.
+- ComplementNB constantly performed well under a variety of conditions.
+
+- In comparison to other models, GaussianNB has a lower AUC rating and a higher log loss.
+
 
 
 ### Streamlit deployment 
